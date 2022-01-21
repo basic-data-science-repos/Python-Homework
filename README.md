@@ -1,4 +1,3 @@
 # python-homework
-Pybank &amp; PyRamen
 
-Data Science, AI, ML
+Unit 2 | Homework Assignment: Automate Your Day Job with Python
